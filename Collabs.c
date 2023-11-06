@@ -1,5 +1,5 @@
-#Collaborated
-
+//Collaborated
+//Vaibhav Jaiswal BT22CSH018
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -107,7 +107,7 @@ voidprintArray(intarr[],intn){
 intmain(){
     intarr[]={1,5,6,8,9,7,3};
     intn=sizeof(arr)/sizeof(arr[0]);
-
+    //heyloooo
 
     printf("Original array: ");
     printArray(arr,n);
